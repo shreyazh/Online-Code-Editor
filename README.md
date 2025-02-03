@@ -1,5 +1,5 @@
-# CodeEditor
-• Learned through YouTube.
+# jusCode
+• Online web Code compiler.
 
 • Implemented local storage feature on my own.
 
@@ -7,4 +7,4 @@
 
 
 
-• [Link to website](https://afreeninnovates.github.io/code-editor/)
+• [Link to website](https://juscode-lime.vercel.app/)
